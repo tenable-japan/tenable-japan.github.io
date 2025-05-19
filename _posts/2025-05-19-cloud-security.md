@@ -31,3 +31,6 @@ resource "aws_instance" "example" {
   }
 }
 ```
+
+<b>bold</b>
+<i>italic</i>
